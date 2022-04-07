@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "wwkwkkwkw",
+      "author": "Teguh",
+      "id": 1
+    },
+    {
+      "title": "My second Blog",
+      "body": "wwkwkkwkw",
+      "author": "satria",
+      "id": 2
+    },
+    {
+      "title": "New again",
+      "body": "new",
+      "author": "Teguh",
+      "id": 4
+    }
+  ]
+}
